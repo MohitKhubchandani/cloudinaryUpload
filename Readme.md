@@ -29,7 +29,7 @@ This project demonstrates how to upload files to Cloudinary using Node.js and th
 
 1. Clone the repository:
 ```
-   git clone [https://github.com/your-username/cloudinary-upload-project.git](https://github.com/MohitKhubchandani/cloudinaryUpload.git)
+   git clone https://github.com/MohitKhubchandani/cloudinaryUpload.git
 ```
    cd cloudinary-upload-project
 
